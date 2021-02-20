@@ -1,0 +1,21 @@
+  
+[
+	{
+		"name": "Name wall",
+		"author": "author",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/nq1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/nq1_thumbnail.png",
+		"collections": "name",
+		"downloadable": true,
+		"copyright": "You Name"
+	},
+	{
+		"name": "Name wall 2",
+		"author": "author",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/nq1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/nq1_thumbnail.png",
+		"collections": "name",
+		"downloadable": true,
+		"copyright": "You Name"
+	}
+]

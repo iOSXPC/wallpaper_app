@@ -1,21 +1,111 @@
   
 [
 	{
-		"name": "Name wall",
-		"author": "author",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/nq1.png",
-		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/nq1_thumbnail.png",
-		"collections": "name",
+		"name": "P4a Color AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/p4a_color_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/preview/p4a_color_amoled_preview.png",
+		"collections": "Pixel",
 		"downloadable": true,
-		"copyright": "You Name"
+		"copyright": "iOSXPC"
 	},
 	{
-		"name": "Name wall 2",
-		"author": "author",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/nq1.png",
-		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/nq1_thumbnail.png",
-		"collections": "name",
+		"name": "P4a Color Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/p4a_color_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/preview/p4a_color_dark_preview.png",
+		"collections": "Pixel",
 		"downloadable": true,
-		"copyright": "You Name"
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P4a Color Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/p4a_color_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/preview/p4a_color_light_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P4a Dark AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/p4a_dark_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/preview/p4a_dark_amoled_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P4a Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/p4a_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/preview/p4a_dark_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P4a Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/p4a_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/4a/preview/p4a_light_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P5 Color AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/p5_color_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/preview/p5_color_amoled_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P5 Color dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/p5_color_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/preview/p5_color_dark_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P5 Color Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/p5_color_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/preview/p5_color_light_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P5 Dark AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/p5_dark_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/preview/p5_dark_amoled_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P5 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/p5_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/preview/p5_dark_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "P5 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/p5_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/pixel/5/preview/p5_light_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "iOSXPC"
 	}
 ]

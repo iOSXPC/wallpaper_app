@@ -206,5 +206,95 @@
 		"collections": "PashaPuma Design Modifications",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Retro Lines Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_alpha_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_alpha_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_alpha_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_alpha_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Blue Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_blue_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_blue_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Blue Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_blue_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_blue_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Green Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_green_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_green_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Green Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_green_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_green_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Red Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_red_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_red_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Red Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_red_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_red_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Yellow Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_yellow_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_yellow_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Yellow Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_yellow_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_yellow_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
 	}
 ]

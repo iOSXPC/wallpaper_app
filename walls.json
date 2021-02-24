@@ -350,5 +350,140 @@
 		"collections": "Retro",
 		"downloadable": true,
 		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_alpha_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_alpha_amoled_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_alpha_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_alpha_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_alpha_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_alpha_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Blue AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_blue_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_blue_amoled_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Blue Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_blue_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_blue_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Blue Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_blue_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_blue_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Green AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_green_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_green_amoled_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Green Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_green_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_green_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Green Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_green_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_green_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Red AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_red_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_red_amoled_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Red Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_red_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_red_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Red Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_red_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_red_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Yellow AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_yellow_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_yellow_amoled_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Yellow Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_yellow_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_yellow_dark_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Motion Yellow Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_motion_yellow_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_motion_yellow_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
 	}
 ]

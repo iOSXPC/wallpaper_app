@@ -217,6 +217,15 @@
 		"copyright": "PashaPuma Design"
 	},
 	{
+		"name": "Retro Lines AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_alpha_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_alpha_amoled_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
 		"name": "Retro Lines Dark",
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_alpha_dark.png",
@@ -230,6 +239,15 @@
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_alpha_light.png",
 		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_alpha_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Blue AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_blue_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_blue_amoled_preview.png",
 		"collections": "Retro",
 		"downloadable": true,
 		"copyright": "iOSXPC"
@@ -253,6 +271,15 @@
 		"copyright": "iOSXPC"
 	},
 	{
+		"name": "Retro Lines Green AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_green_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_green_amoled_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
 		"name": "Retro Lines Green Dark",
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_green_dark.png",
@@ -271,6 +298,15 @@
 		"copyright": "iOSXPC"
 	},
 	{
+		"name": "Retro Lines Red AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_red_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_red_amoled_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
 		"name": "Retro Lines Red Dark",
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_red_dark.png",
@@ -284,6 +320,15 @@
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_red_light.png",
 		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_red_light_preview.png",
+		"collections": "Retro",
+		"downloadable": true,
+		"copyright": "iOSXPC"
+	},
+	{
+		"name": "Retro Lines Yellow AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/retro_lines_yellow_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/retro/preview/retro_lines_yellow_amoled_preview.png",
 		"collections": "Retro",
 		"downloadable": true,
 		"copyright": "iOSXPC"

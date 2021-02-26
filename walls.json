@@ -751,7 +751,7 @@ Creative Commons Attribution 3.0"
 	{
 		"name": "Flannel Emerald",
 		"author": "iOSXPC",
-		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/flannel/emerald_blue.png",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/flannel/flannel_emerald.png",
 		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/flannel/preview/flannel_emerald_preview.png",
 		"collections": "Fabric",
 		"downloadable": true,
@@ -833,6 +833,106 @@ Creative Commons Attribution 3.0"
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/flannel/flannel_teal.png",
 		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/flannel/preview/flannel_teal_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Blue",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_blue_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Emerald",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_emerald.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_emerald_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Gold",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_gold.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_gold_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Green",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_green.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_green_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Orange",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_orange.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_orange_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Pink",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_pink.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_pink_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Purple",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_purple.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_purple_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Red",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_red.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_red_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Silver",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_silver.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_silver_preview.png",
+		"collections": "Fabric",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Soft Flannel Teal",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/soft_flannel_teal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/fabric/soft_flannel/preview/soft_flannel_teal_preview.png",
 		"collections": "Fabric",
 		"downloadable": true,
 		"copyright": "©2021 iOSXPC

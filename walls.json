@@ -1229,6 +1229,16 @@ Creative Commons Attribution 3.0"
 Creative Commons Attribution 3.0"
 	},
 	{
+		"name": "Silver Blue",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/silver_blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/preview/silver_blue_preview.png",
+		"collections": "Silver",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
 		"name": "Silver Coral",
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/silver_coral.png",
@@ -1239,10 +1249,40 @@ Creative Commons Attribution 3.0"
 Creative Commons Attribution 3.0"
 	},
 	{
+		"name": "Silver Green",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/silver_green.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/preview/silver_green_preview.png",
+		"collections": "Silver",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Silver Red",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/silver_red.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/preview/silver_red_preview.png",
+		"collections": "Silver",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
 		"name": "Silver Violet",
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/silver_violet.png",
 		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/preview/silver_violet_preview.png",
+		"collections": "Silver",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Silver Yellow",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/silver_yellow.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/preview/silver_yellow_preview.png",
 		"collections": "Silver",
 		"downloadable": true,
 		"copyright": "©2021 iOSXPC

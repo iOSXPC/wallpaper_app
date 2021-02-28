@@ -1239,11 +1239,231 @@ Creative Commons Attribution 3.0"
 Creative Commons Attribution 3.0"
 	},
 	{
-		"name": "Silver Violet",
+		"name": "Horizontal Woodgrain",
 		"author": "iOSXPC",
-		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/silver_violet.png",
-		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/metallic/preview/silver_violet_preview.png",
-		"collections": "Silver",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/horizontal_wood.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/horizontal_wood_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Blue",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_blue_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_blue_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Coral",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_coral_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_coral_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Emerald",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_emerald_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_emerald_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Gray",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_gray_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_gray_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Green",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_green_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_green_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Khaki",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_khaki_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_khaki_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Pink",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_pink_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_pink_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Red",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_red_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_red_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Teal",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_teal_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_teal_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Violet",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_violet_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_violet_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Horizontal Woodgrain Yellow",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/wood_yellow_horizontal.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/horizontal/preview/wood_yellow_horizontal_preview.png",
+		"collections": "Horizontal Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/vertical_wood.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/vertical_wood_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Turquoise on Green",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/vertical_green_turquoise_wood.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/vertical_green_turquoise_wood_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Green on Turquoise",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/vertical_turquoise_green_wood.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/vertical_turquoise_green_wood_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Blue",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/wood_blue_vertical.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/wood_blue_vertical_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Coral",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/wood_coral_vertical.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/wood_coral_vertical_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Gray",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/wood_gray_vertical.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/wood_gray_vertical_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Green",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/wood_green_vertical.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/wood_green_vertical_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Pink",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/wood_pink_vertical.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/wood_pink_vertical_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Red",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/wood_red_vertical.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/wood_red_vertical_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Violet",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/wood_violet_vertical.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/wood_violet_vertical_preview.png",
+		"collections": "Vertical Woodgrain",
+		"downloadable": true,
+		"copyright": "©2021 iOSXPC
+Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Vertical Woodgrain Yellow",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/wood_yellow_vertical.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/wood/vertical/preview/wood_yellow_vertical_preview.png",
+		"collections": "Vertical Woodgrain",
 		"downloadable": true,
 		"copyright": "©2021 iOSXPC
 Creative Commons Attribution 3.0"

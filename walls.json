@@ -136,6 +136,33 @@
 		"copyright": "Creative Commons Attribution 3.0"
 	},
 	{
+		"name": "P5 Product AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/pixel/5/p5_product_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/pixel/5/preview/p5_product_amoled_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "P5 Product Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/pixel/5/p5_product_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/pixel/5/preview/p5_product_dark_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "P5 Product Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/pixel/5/p5_product_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/pixel/5/preview/p5_product_light_preview.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
 		"name": "Color Drop Blue AMOLED",
 		"author": "iOSXPC (modification)",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/pashapumadesign/color_drop_blue_amoled.png",
@@ -242,6 +269,87 @@
 		"collections": "PashaPuma Design",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Motion #1 AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_01_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_01_amoled_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Motion #1 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_01_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_01_dark_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Motion #1 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_01_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_01_light_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Motion #2 AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_02_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_02_amoled_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Motion #2 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_02_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_02_dark_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Motion #2 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_02_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_02_light_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Motion #3 AMOLED",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_03_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_03_amoled_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Motion #3 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_03_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_03_dark_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
+	},
+	{
+		"name": "Motion #3 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/motion_03_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/motion/preview/motion_03_light_preview.png",
+		"collections": "Motion",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution 3.0"
 	},
 	{
 		"name": "Retro Lines AMOLED",

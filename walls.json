@@ -1,10 +1,10 @@
-﻿
+
 [
 	{
 		"name": "Sandstone Dark",
 		"author": "iOSXPC",
-		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/android/scrolling/00s_sandstone_dark.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/android/preview/00_sandstone_dark_preview.jpg",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/android/scrolling/00s_sandstone_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/android/preview/00_sandstone_dark_preview.webp",
 		"collections": "Sandstone",
 		"downloadable": true,
 		"copyright": "Creative Commons Attribution
@@ -13,8 +13,8 @@ NonCommercial 4.0 International"
 	{
 		"name": "Sandstone Light",
 		"author": "iOSXPC",
-		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/android/scrolling/00s_sandstone_light.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/android/preview/00_sandstone_light_preview.jpg",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/android/scrolling/00s_sandstone_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/android/preview/00_sandstone_light_preview.webp",
 		"collections": "Sandstone",
 		"downloadable": true,
 		"copyright": "Creative Commons Attribution

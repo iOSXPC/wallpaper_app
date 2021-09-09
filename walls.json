@@ -1,6 +1,346 @@
 ﻿  
 [
 	{
+		"name": "#1 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/01_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/01_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#1 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/01_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/01_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#2 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/02_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/02_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#2 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/02_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/02_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#3 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/03_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/03_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#3 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/03_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/03_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#4 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/04_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/04_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#4 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/04_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/04_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#5 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/05_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/05_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#5 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/05_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/05_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#6 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/06_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/06_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#6 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/06_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/06_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#7 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/07_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/07_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#7 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/07_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/07_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#8 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/08_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/08_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#8 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/08_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/08_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#9 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/09_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/09_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#9 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/09_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/09_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#10 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/10_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/10_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#10 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/10_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/10_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#11 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/11_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/11_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#11 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/11_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/11_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#12 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/12_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/12_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#12 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/12_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/12_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#13 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/13_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/13_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#13 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/13_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/13_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#14 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/14_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/14_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#14 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/14_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/14_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#15 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/15_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/15_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#15 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/15_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/15_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#16 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/16_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/16_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#16 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/16_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/16_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#17 Design 07 Dark",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/17_design_07_dark.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/17_design_07_dark_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
+		"name": "#17 Design 07 Light",
+		"author": "iOSXPC",
+		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/17_design_07_light.webp",
+		"thumbnail": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design07/preview/17_design_07_light_preview.webp",
+		"collections": "MaterialYou",
+		"downloadable": true,
+		"copyright": "Creative Commons Attribution
+NonCommercial 4.0 International"
+	},
+	{
 		"name": "#1 Design 06 Dark",
 		"author": "iOSXPC",
 		"url": "https://raw.githubusercontent.com/iOSXPC/wallpaper_app/master/materialyou/design06/01_design_06_dark.webp",

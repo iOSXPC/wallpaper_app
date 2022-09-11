@@ -9,7 +9,7 @@ The iOSXPC Wallpapers app stores and processes personal data that you have provi
 The app does use third party services that declare their own Terms and Conditions.
 
 Links to Terms and Conditions of third party service providers used by the app:
-• [Google Play Services](https://policies.google.com/terms)
+[Google Play Services](https://policies.google.com/terms)
 • [One Signal](https://onesignal.com/tos)
 
 You should be aware that there are certain things that iOSXPC will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but iOSXPC cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi and you don’t have any of your data allowance left.
@@ -25,7 +25,7 @@ At some point, I may wish to update the app. The app is currently available on A
 ## Changes to these Terms of Use
 I may update my Terms of Use from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms of Use on this page.
 
-## These Terms of Use are effective as of 2021-10-17
+** These Terms of Use are effective as of 2021-10-17
 
 ## Contact Me
 If you have any questions or suggestions about my Terms of Use, do not hesitate to contact me at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).

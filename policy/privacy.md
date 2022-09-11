@@ -14,7 +14,9 @@ For a better experience, while using my app, I may require you to provide me wit
 The app does use third party services that may collect information used to identify you.
 
 Links to privacy policy of third party service providers used by the app:
+
 • [Google Play Services](https://policies.google.com/privacy)
+
 • [One Signal](https://onesignal.com/privacy_policy)
 
 ## Log Data

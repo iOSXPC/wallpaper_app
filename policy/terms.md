@@ -25,7 +25,7 @@ At some point, I may wish to update the app. The app is currently available on A
 ## Changes to these Terms of Use
 I may update my Terms of Use from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms of Use on this page.
 
-** These Terms of Use are effective as of 2021-10-17 **
+** Effective as of: 2021-10-17 **
 
 ## Contact Me
 If you have any questions or suggestions about my Terms of Use, do not hesitate to contact me at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).

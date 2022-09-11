@@ -46,7 +46,8 @@ Services do not address anyone under the age of 13. I do not knowingly collect p
 ## Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-** This policy is effective as of 2021-10-17 **
+* This policy is effective as of:
+2021-10-17
 
 ## Contact
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).

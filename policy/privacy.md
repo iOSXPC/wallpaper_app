@@ -15,7 +15,7 @@ The app does use third party services that may collect information used to ident
 
 Links to privacy policy of third party service providers used by the app:
  [Google Play Services](https://policies.google.com/privacy)
- [One Signal](https://onesignal.com/privacy_policy)
+• [One Signal](https://onesignal.com/privacy_policy)
 
 ## Log Data
 I want to inform you that whenever you use my app, in a case of an error in the app, I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app at the time of the crash, the time and date of when the app was in use and other statistics.

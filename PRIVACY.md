@@ -14,8 +14,8 @@ For a better experience, while using my app, I may require you to provide me wit
 The app does use third party services that may collect information used to identify you.
 
 Links to privacy policy of third party service providers used by the app:
-• [Google Play Services](https://policies.google.com/privacy)
-• [One Signal](https://onesignal.com/privacy_policy)
+* [Google Play Services](https://policies.google.com/privacy)
+* [One Signal](https://onesignal.com/privacy_policy)
 
 ## Log Data
 I want to inform you that whenever you use my app, in a case of an error in the app, I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app at the time of the crash, the time and date of when the app was in use and other statistics.
@@ -46,7 +46,7 @@ Services do not address anyone under the age of 13. I do not knowingly collect p
 ## Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-## This policy is effective as of 2021-10-17
+* Effective: 2021-10-17
 
 ## Contact
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).

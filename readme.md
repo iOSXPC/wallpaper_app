@@ -6,7 +6,7 @@ All images are protected by the [CC 4.0 Attribution](https://creativecommons.org
 This license lets others distribute, remix, tweak, and build upon the work, even commercially, as long as they credit me, iOSXPC, for the original creation.
 It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in other applications.
 
-* [Privacy Policy](https://iOSXPC.github.io/wallpaper_app/legal/policy/index.md)
+* [Privacy Policy](https://iOSXPC.github.io/wallpaper_app/legal/privacy/index.md)
 * [Terms of Use](https://iOSXPC.github.io/wallpaper_app/legal/terms/index.md)
 
 ## Available in the Play Store

@@ -9,7 +9,7 @@ It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in ot
 * [Privacy Policy](https://iOSXPC.github.io/wallpaper_app/legal/policy/)
 * [Terms of Use](https://iOSXPC.github.io/wallpaper_app/legal/terms/)
 
-## App is available in the Play Store
+## Available in the Play Store
 <a href="https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers">
 <img height="80" alt="Get it on Google Play" src="https://raw.githubusercontent.com/iOSXPC/wallpaper_app/main/playstore.png">
 </a>

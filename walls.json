@@ -1,5 +1,113 @@
 [
 	{
+		"name": "00",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/00.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/00.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/01.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/02.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/03.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/04.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/05.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/06.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/07.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/08.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/09.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/10.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/11.png",
+		"collections": "juice",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
 		"name": "00 dark",
 		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/noise/00_dark.png",

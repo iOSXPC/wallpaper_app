@@ -2,6 +2,195 @@
 	{
 		"name": "00",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/00.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/00.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/01.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/02.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/03.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/04.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/05.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/06.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/07.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/08.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/09.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/shells/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/shells/10.png",
+		"collections": "shells",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glory/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glory/01.png",
+		"collections": "glory",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glory/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glory/02.png",
+		"collections": "glory",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glory/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glory/03.png",
+		"collections": "glory",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glory/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glory/04.png",
+		"collections": "glory",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glory/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glory/05.png",
+		"collections": "glory",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glory/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glory/06.png",
+		"collections": "glory",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/pulsate/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/pulsate/01.png",
+		"collections": "pulsate",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/pulsate/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/pulsate/02.png",
+		"collections": "pulsate",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/pulsate/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/pulsate/03.png",
+		"collections": "pulsate",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/pulsate/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/pulsate/04.png",
+		"collections": "pulsate",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "00",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/juice/00.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/juice/00.png",
 		"collections": "juice",

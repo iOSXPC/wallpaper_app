@@ -1,5 +1,104 @@
 [
 	{
+		"name": "00",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/00.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/00.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/01.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/02.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/03.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/04.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/05.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/06.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/07.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/08.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/09.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/power/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/power/10.png",
+		"collections": "power",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
 		"name": "01",
 		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/cars/01.png",

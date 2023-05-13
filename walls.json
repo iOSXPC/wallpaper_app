@@ -2,6 +2,384 @@
 	{
 		"name": "00 Dark",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/00_dark.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/00_dark.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "00 Light",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/00_light.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/00_light.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/01.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/02.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/03.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/04.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/05.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/06.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/07.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/08.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/09.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/10.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/11.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "12",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/12.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/12.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "13",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/13.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/13.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "14",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/14.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/14.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "15",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/15.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/15.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "16",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/16.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/16.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "17",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/17.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/17.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "18",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/18.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/18.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "19",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/19.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/19.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "20",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/20.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/20.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "21",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/21.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/21.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "22",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/22.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/22.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "23",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/23.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/23.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "24",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/24.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/24.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "25",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/25.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/25.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "26",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/26.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/26.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "27",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/27.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/27.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "28",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/28.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/28.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "29",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/29.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/29.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "30",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/30.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/30.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "31",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/31.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/31.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "32",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/32.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/32.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "33",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/33.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/33.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "34",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/34.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/34.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "35",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/35.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/35.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "36",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/36.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/36.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "37",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/37.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/37.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "38",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/38.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/38.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "39",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/39.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/39.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "40",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/imperial/40.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/imperial/40.png",
+		"collections": "imperial",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "00 Dark",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/security/00_dark.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/security/00_dark.png",
 		"collections": "security",

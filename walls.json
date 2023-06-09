@@ -1,23 +1,5 @@
 ﻿[
 	{
-		"name": "00 Dark",
-		"author": "iOSXPC",
-		"url": "https://iosxpc.github.io/wallpaper_app/assets/cardboard/00_dark.png",
-		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/cardboard/00_dark.png",
-		"collections": "cardboard",
-		"downloadable": true,
-		"copyright": "CC 4.0 International"
-	},
-	{
-		"name": "00 Light",
-		"author": "iOSXPC",
-		"url": "https://iosxpc.github.io/wallpaper_app/assets/cardboard/00_light.png",
-		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/cardboard/00_light.png",
-		"collections": "cardboard",
-		"downloadable": true,
-		"copyright": "CC 4.0 International"
-	},
-	{
 		"name": "01",
 		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/cardboard/01.png",

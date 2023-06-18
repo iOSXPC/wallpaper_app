@@ -1,5 +1,50 @@
 ﻿[
 	{
+		"name": "00",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/00.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/00.png",
+		"collections": "wrapped",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/01.png",
+		"collections": "wrapped",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/02.png",
+		"collections": "wrapped",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/03.png",
+		"collections": "wrapped",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/wrapped/04.png",
+		"collections": "wrapped",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
 		"name": "01",
 		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/sheen/01.png",

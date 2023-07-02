@@ -2,6 +2,132 @@
 	{
 		"name": "01",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/01.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/02.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/03.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/04.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/05.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/06.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/07.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/08.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/09.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/sunrise/10.png",
+		"collections": "sunrise",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/burst/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/burst/01.png",
+		"collections": "burst",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/burst/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/burst/02.png",
+		"collections": "burst",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/burst/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/burst/03.png",
+		"collections": "burst",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/burst/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/burst/04.png",
+		"collections": "burst",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/pocket/01.jpg",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/pocket/01.jpg",
 		"collections": "pocket",

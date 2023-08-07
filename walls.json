@@ -1,5 +1,167 @@
 ﻿[
 	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/01.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/02.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/03.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/04.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/05.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/06.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/07.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/08.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/09.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/10.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/11.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "12",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/12.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/12.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "13",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/13.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/13.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "14",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/14.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/14.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "15",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/15.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/15.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "16",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/16.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/16.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "17",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/17.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/17.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "18",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/navigation/18.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/navigation/18.png",
+		"collections": "navigation",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
 		"name": "00",
 		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/focus/00.png",

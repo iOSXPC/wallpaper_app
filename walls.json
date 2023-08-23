@@ -2,6 +2,330 @@
 	{
 		"name": "01",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/01.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/02.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/03.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/04.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/05.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/06.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/07.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/08.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/09.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/10.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/11.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "12",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/12.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/12.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "13",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/13.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/13.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "14",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/14.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/14.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "15",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/15.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/15.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "16",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/16.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/16.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "17",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/17.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/17.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "18",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/18.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/18.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "19",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/19.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/19.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "20",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/20.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/20.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "21",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/21.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/21.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "22",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/22.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/22.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "23",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/23.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/23.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "24",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/24.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/24.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "25",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/25.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/25.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "26",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/26.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/26.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "27",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/27.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/27.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "28",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/28.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/28.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "29",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/29.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/29.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "30",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/30.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/30.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "31",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/31.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/31.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "32",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/32.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/32.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "33",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/33.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/33.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "34",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/34.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/34.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "35",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/35.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/35.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "36",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/stones/36.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/stones/36.png",
+		"collections": "stones",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/circuitry/01.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/circuitry/01.png",
 		"collections": "circuitry",

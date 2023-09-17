@@ -2,6 +2,789 @@
 	{
 		"name": "01",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/01.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/02.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/03.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/04.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/05.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/06.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/07.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/08.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/09.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/10.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/11.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "12",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/12.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/12.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "13",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/13.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/13.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "14",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/14.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/14.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "15",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/15.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/15.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "16",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/16.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/16.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "17",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/17.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/17.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "18",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/18.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/18.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "19",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/19.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/19.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "20",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/20.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/20.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "21",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/21.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/21.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "22",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/22.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/22.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "23",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/23.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/23.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "24",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/24.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/24.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "25",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/25.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/25.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "26",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/26.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/26.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "27",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/27.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/27.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "28",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/28.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/28.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "29",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/29.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/29.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "30",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/30.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/30.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "31",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/31.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/31.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "32",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/32.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/32.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "33",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/33.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/33.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "34",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/34.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/34.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "35",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/35.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/35.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "36",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/36.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/36.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "37",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/37.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/37.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "38",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/atomic/38.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/atomic/38.png",
+		"collections": "atomic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/01.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/02.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/03.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/04.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/05.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/06.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/07.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/08.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/09.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/10.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/moon/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/moon/11.png",
+		"collections": "moon",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/01.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/02.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/03.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/04.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/05.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/06.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/07.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/08.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/09.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/10.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/11.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "12",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/12.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/12.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "13",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/13.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/13.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "14",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/14.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/14.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "15",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/15.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/15.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "16",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/16.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/16.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "17",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/17.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/17.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "18",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/18.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/18.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "19",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/19.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/19.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "20",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/20.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/20.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "21",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/21.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/21.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "22",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/22.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/22.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "23",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/23.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/23.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "24",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/24.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/24.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "25",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/25.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/25.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "26",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/26.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/26.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "27",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/27.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/27.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "28",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/28.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/28.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "29",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/29.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/29.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "30",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/30.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/30.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "31",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/31.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/31.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "32",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/32.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/32.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "33",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/33.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/33.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "34",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/34.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/34.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "35",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/35.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/35.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "36",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/36.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/36.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "37",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/37.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/37.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "38",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/anime/38.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/anime/38.png",
+		"collections": "anime",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/mirage/01.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/mirage/01.png",
 		"collections": "mirage",

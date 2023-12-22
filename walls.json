@@ -2,6 +2,186 @@
 	{
 		"name": "01",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/01.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/02.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/03.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/04.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/05.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/06.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/07.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/08.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/09.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/10.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/11.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "12",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/12.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/12.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "13",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/13.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/13.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "14",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/14.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/14.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "15",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/15.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/15.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "16",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/16.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/16.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "17",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/17.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/17.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "18",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/18.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/18.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "19",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/19.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/19.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "20",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/20.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/20.png",
+		"collections": "magic",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/leather/new/01.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/leather/new/01.png",
 		"collections": "leather",

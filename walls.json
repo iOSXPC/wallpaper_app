@@ -2,6 +2,60 @@
 	{
 		"name": "01",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glitch/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glitch/01.png",
+		"collections": "glitch",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glitch/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glitch/02.png",
+		"collections": "glitch",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glitch/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glitch/03.png",
+		"collections": "glitch",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glitch/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glitch/04.png",
+		"collections": "glitch",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glitch/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glitch/05.png",
+		"collections": "glitch",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/glitch/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glitch/06.png",
+		"collections": "glitch",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/magic/01.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/magic/01.png",
 		"collections": "magic",

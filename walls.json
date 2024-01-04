@@ -2,6 +2,105 @@
 	{
 		"name": "01",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/01.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/02.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/03.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/04.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/05.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/06.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/07.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/08.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/09.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/10.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/11.png",
+		"collections": "steel",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/glitch/01.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/glitch/01.png",
 		"collections": "glitch",

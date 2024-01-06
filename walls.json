@@ -2,6 +2,105 @@
 	{
 		"name": "01",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/01.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/02.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/03.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/04.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/05.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/06.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/07.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/08.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/09.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/10.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/11.png",
+		"collections": "radioactive",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/steel/01.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/steel/01.png",
 		"collections": "steel",

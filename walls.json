@@ -2,6 +2,321 @@
 	{
 		"name": "01",
 		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/01.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/02.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/03.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/04.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/05.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "Arjun Arora",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/06.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "Arjun Arora",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/07.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "Arjun Arora",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/08.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "Arjun Arora",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/09.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "Arjun Arora",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/bliss/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/bliss/10.png",
+		"collections": "bliss",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "00",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/00.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/00.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/01.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/02.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/03.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/04.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/05.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/06.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/07.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/08.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/09.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/10.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/11.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "12",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/frequency/12.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/frequency/12.png",
+		"collections": "frequency",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/01.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/01.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "02",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/02.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/02.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "03",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/03.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/03.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "04",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/04.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/04.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "05",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/05.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/05.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "06",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/06.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/06.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "07",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/07.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/07.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "08",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/08.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/08.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "09",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/09.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/09.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "10",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/10.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/10.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "11",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/11.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/11.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "12",
+		"author": "iOSXPC",
+		"url": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/12.png",
+		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/duplicitous/12.png",
+		"collections": "duplicitous",
+		"downloadable": true,
+		"copyright": "CC 4.0 International"
+	},
+	{
+		"name": "01",
+		"author": "iOSXPC",
 		"url": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/01.png",
 		"thumbnail": "https://iosxpc.github.io/wallpaper_app/assets/radioactive/01.png",
 		"collections": "radioactive",

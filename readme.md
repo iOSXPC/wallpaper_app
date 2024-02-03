@@ -1,5 +1,7 @@
 # iOSXPC Wallpapers
-This is a free (not for profit) Android app to have custom wallpapers on your smartphone. All wallpapers are hand drawn designed or modified by me, iOSXPC, using only my Pixel 5 smartphone; if the wallpaper is modified credit to the original developer.
+This is a free (not for profit) Android app to have custom wallpapers on your smartphone.
+All wallpapers are hand drawn designed or modified by iOSXPC.
+If the wallpaper is modified, credit to the original developer.
 
 ## Copyright infringement is prohibited.
 All images are protected by the [CC 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/legalcode#s2b/).

@@ -1,6 +1,6 @@
 # iOSXPC Wallpapers
 This is a free (not for profit) Android app to have custom wallpapers on your smartphone.
-All wallpapers are hand drawn designed or modified by iOSXPC.
+All wallpapers are hand drawn, designed or modified by iOSXPC.
 If the wallpaper is modified, credit to the original developer.
 
 ## Copyright infringement is prohibited.

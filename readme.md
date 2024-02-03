@@ -6,12 +6,12 @@ All images are protected by the [CC 4.0 Attribution](https://creativecommons.org
 This license lets others distribute, remix, tweak, and build upon the work, even commercially, as long as they credit me, iOSXPC, for the original creation.
 It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in other applications.
 
-* [Privacy Policy](https://iOSXPC.github.io/wallpaper_app/legal/privacy/)
-* [Terms of Use](https://iOSXPC.github.io/wallpaper_app/legal/terms/)
+* [Privacy Policy](https://iOSXPC.github.io/wallpaper_app/legal/privacy/index.md)
+* [Terms of Use](https://iOSXPC.github.io/wallpaper_app/legal/terms/index.md)
 
 ## App is available in the Play Store
 <a href="https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers">
-<img height="80" alt="Get it on Google Play" src="https://raw.githubusercontent.com/iOSXPC/wallpaper_app/main/playstore.png">
+<img height="80" alt="Get it on Google Play" src="https://iosxpc.github.io/wallpaper_app/playstore.png">
 </a>
 
 * If you want to donate for this work; please, donate through the app.

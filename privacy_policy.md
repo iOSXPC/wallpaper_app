@@ -2,9 +2,9 @@
 
 iOSXPC Design Studio built the iOSXPC Wallpapers app as a free app. This app is provided at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decides to use this app.
+This page is used to inform visitors regarding the policies with the collection, use of and disclosure of Personal Information if anyone decides to use this app.
 
-If you choose to use this app, then you agree to the collection and use of information in relation to this policy. The Personal Information that the app collects is used for providing and improving the app. The app will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use this app, then you agree to the collection and use of information in relation to this policy. The Personal Information that the app collects is used for providing and improving the app. The app will not use nor share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in the Terms of Use, which is accessible through the app unless otherwise defined in this Privacy Policy.
 
@@ -31,10 +31,10 @@ iOSXPC Design Studio may employ third-party companies and individuals due to the
 * To provide the delivery of service.
 * To perform service-related services.
 * To assist in analyzing how the app is used.
-This Privacy Policy informs users of this app that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them. However, they are obligated not to disclose or use the information for any other purpose.
+This Privacy Policy informs users of this app that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them. However, they are obligated not to disclose nor use the information for any other purpose.
 
 ## Security
-iOSXPC Design Studio values your trust in providing your Personal Information, thus commercially acceptable means of protecting it are in place. Remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and absolute security cannot be guaranteed.
+iOSXPC Design Studio values your trust in providing your Personal Information, thus commercially acceptable means of protecting it are in place. Remember that no method of transmission over the internet, no method of electronic storage is 100% secure and reliable and absolute security cannot be guaranteed.
 
 ## Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site.

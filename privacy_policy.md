@@ -31,6 +31,7 @@ iOSXPC Design Studio may employ third-party companies and individuals due to the
 * To provide the delivery of service.
 * To perform service-related services.
 * To assist in analyzing how the app is used.
+
 This Privacy Policy informs users of this app that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them. However, they are obligated not to disclose nor use the information for any other purpose.
 
 ## Security

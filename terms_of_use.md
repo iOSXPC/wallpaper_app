@@ -26,5 +26,5 @@ App updates will be a regular occurance. The app is currently available on Andro
 These Terms of Use may be updated from time to time. Thus, you are advised to review this page periodically for any changes.
 * Effective: 2021-10-17
 
-## Contact Me
+## Contact
 If you have any inquiries about my Terms of Use, do not hesitate to contact iOSXPC Design Studio at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).

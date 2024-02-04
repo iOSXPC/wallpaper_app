@@ -13,7 +13,7 @@ It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in ot
 
 ## App is available on Google Play
 <a href="https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers">
-<img height="80" alt="Get it on Google Play" src="https://iosxpc.github.io/wallpaper_app/playstore.png">
+<img height="80" alt="GET IT ON Google Play" src="https://iosxpc.github.io/wallpaper_app/playstore.png">
 </a>
 
 * If you want to donate for this work; please, donate through the app.

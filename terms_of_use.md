@@ -27,4 +27,4 @@ These Terms of Use may be updated from time to time. Thus, you are advised to re
 * Effective: 2021-10-17
 
 ## Contact
-If you have any inquiries about my Terms of Use, do not hesitate to contact iOSXPC Design Studio at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).
+If you have any inquiries about these Terms of Use, do not hesitate to contact iOSXPC Design Studio at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).

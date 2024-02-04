@@ -1,6 +1,6 @@
 # iOSXPC Wallpapers > Privacy Policy
 
-iOSXPC Design Studio built the iOSXPC Wallpapers app as a free app. This app is provided at no cost and is intended for use as is.
+iOSXPC Design Studio built the iOSXPC Wallpapers app as a free app and is intended for use as is.
 
 This page is used to inform visitors regarding the policies with the collection, use of and disclosure of Personal Information if anyone decides to use this app.
 

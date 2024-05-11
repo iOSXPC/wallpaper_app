@@ -9,8 +9,11 @@
         body { font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
             padding: 1em;
             word-wrap: break-word;
-            background-color: #FAFEFC;
-            color: #0b3729;
+        }
+        @media (prefers-color-scheme: light) {
+            body {
+                background-color: #FAFEFC;
+                color: #0b3729;
             a:link {
                 color: #264b5c;
             }
@@ -41,6 +44,7 @@
             a:active {
                 color: #faf3e0;
             }
+
         }
         .open-dialog-button {
             border: 2px solid #254e3F;
@@ -55,7 +59,7 @@
         }
         .dialog-box {
             display: none;
-            width: 316px;
+            width: 300px;
             padding: 16px;
             border: 4px solid #557e6D;
             border-radius: 24px;

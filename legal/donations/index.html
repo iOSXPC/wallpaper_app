@@ -1,25 +1,165 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset='utf-8'>
-<meta name='viewport' content='width=device-width'>
-<meta name='color-scheme' content='light dark'>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width'>
+    <meta name='color-scheme' content='light dark'>
 <title>Contributions</title>
-<style> body { font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'; padding:1em; }
-        img, span { display: inline; vertical-align: middle; }
-</style>
+    <style>
+        body { font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+            padding: 1em;
+            word-wrap: break-word;
+            background-color: #FAFEFC;
+            color: #0b3729;
+        }
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #00150c;
+                color: #cceede;
+            }
+        }
+        .open-dialog-button {
+            border: 2px solid #254e3F;
+            border-radius: 6px;
+            background-color: #557e6D;
+            color: #e4f9ef;
+            cursor: pointer;
+        }
+        .open-dialog-button:hover {
+            background-color: #89b4a1;
+            color: #254e3F;
+        }
+        .dialog-box {
+            display: none;
+            width: 316px;
+            padding: 16px;
+            border: 4px solid #557e6D;
+            border-radius: 24px;
+            background-color: #cceede;
+            color: #002116;
+            word-wrap: break-word;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        .close-dialog-button {
+            border: 2px solid #673b34;
+            border-radius: 6px;
+            background-color: #9d6960;
+            color: #feedea;
+            cursor: pointer;
+        }
+        .close-dialog-button:hover {
+            background-color: #d89d93;
+            color: #673b34;
+        }
+        .copy-dialog-button {
+            border: 2px solid #264b5c;
+            border-radius: 6px;
+            background-color: #577b8d;
+            color: #e6f3fb;
+            cursor: pointer;
+        }
+        .copy-dialog-button:hover {
+            background-color: #8cb0c4;
+            color: #264b5c;
+        }
+    }
+    </style>
 </head>
 <body>
-<p><font size="5"><strong>iOSXPC Design Studio</strong></font></p>
-<p><font size="4"><strong>Donation Information</strong></font></p><br>
-<p><strong>If you would like to show your support for my work; please consider donating using one of the below crypto currency methods.</strong></p>
-<p>If you have the Wallet of Satoshi app please send the donation to: <strong>iosxpc@walletofsatoshi.com</strong></p><br>
-<p><a><img style="width: 64px" src="https://iosxpc.github.io/wallpaper_app/blog/btc.png" alt="BitCoin"><span> BTC: <strong>bc1qqfhn3q6d94kl84hw4q7xmlqxe5c4eg4srz0dj0</strong></span></a></p><br>
-<p><a><img style="width: 64px" src="https://iosxpc.github.io/wallpaper_app/blog/ltc.png" alt="LiteCoin"><span> LTC: <strong>ltc1q87tyehxf0qlzfzl47gastxfzv6zpgk23rty7e7</strong></span></a></p><br>
-<p><a><img style="width: 64px" src="https://iosxpc.github.io/wallpaper_app/blog/bch.png" alt="BitCoinCash"><span> BCH: <strong>qzqapmrt35kztmr46ayvlwpv27tx0auurqh324uyrr</strong></span></a></p><br>
-<p><a><img style="width: 64px" src="https://iosxpc.github.io/wallpaper_app/blog/ton.png" alt="TonCoin"><span> TON: <strong>EQAxERBBxbUm3pL2AV1x53oxdIkwqzDtaRhzpo2sz0ZgGoVh</strong></span></a></p><br>
-<p><a><img style="width: 64px" src="https://iosxpc.github.io/wallpaper_app/blog/xrp.png" alt="RippleCoin"><span> XRP: <strong>rw7dEwDzBFrCz6HCHNRUcNQMrTdyxEwqPg</strong></span></a></p><br>
-<p><a><img style="width: 64px" src="https://iosxpc.github.io/wallpaper_app/blog/eth.png" alt="Ethereum"><span> ETH: <strong>0x86A0FE37e11686518074e1aC243a0c7278Bb3b9b</strong></span></a></p><br>
-<p><a><img style="width: 64px" src="https://iosxpc.github.io/wallpaper_app/blog/sats.png" alt="Satoshis"><span> SATS: <strong>lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkjmmn0pcxxt4z3k7</strong></a></p>
+    <h1>iOSXPC Design Studio</h1>
+    <h2>Donation Information</h2><br>
+    <p><b>If you would like to show your support for my work; please consider donating using one of these cryptocurrencies.</b></p><br>
+
+    <button class="open-dialog-button" onclick="openDialog('dialog1')">Wallet of Satoshi</button><br><br>
+        <div id="dialog1" class="dialog-box">
+            <h3>Wallet of Satoshi</h3>
+            <p id="text1"><b>iosxpc@walletofsatoshi.com</b></p>
+            <button class="close-dialog-button" onclick="closeDialog('dialog1')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text1')">Copy</button>
+        </div>
+
+    <button class="open-dialog-button" onclick="openDialog('dialog2')">Lightning Network</button><br><br>
+        <div id="dialog2" class="dialog-box">
+            <h3>Lightning Network</h3>
+            <p id="text2"><b>lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkjmmn0pcxxt4z3k7</b></p>
+            <button class="close-dialog-button" onclick="closeDialog('dialog2')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text2')">Copy</button>
+        </div>
+
+    <button class="open-dialog-button" onclick="openDialog('dialog3')">BTC Wallet</button><br><br>
+        <div id="dialog3" class="dialog-box">
+            <h3>Bitcoin (BTC)</h3>
+            <p id="text3"><b>bc1qqfhn3q6d94kl84hw4q7xmlqxe5c4eg4srz0dj0</b></p>
+            <button class="close-dialog-button" onclick="closeDialog('dialog3')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text3')">Copy</button>
+        </div>
+
+    <button class="open-dialog-button" onclick="openDialog('dialog4')">LTC Wallet</button><br><br>
+        <div id="dialog4" class="dialog-box">
+            <h3>Litecoin (LTC)</h3>
+            <p id="text4"><b>ltc1q87tyehxf0qlzfzl47gastxfzv6zpgk23rty7e7</b></p>
+            <button class="close-dialog-button" onclick="closeDialog('dialog4')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text4')">Copy</button>
+        </div>
+
+    <button class="open-dialog-button" onclick="openDialog('dialog5')">BCH Wallet</button><br><br>
+        <div id="dialog5" class="dialog-box">
+            <h3>Bitcoin Cash (BCH)</h3>
+            <p id="text5"><b>qzqapmrt35kztmr46ayvlwpv27tx0auurqh324uyrr</b></p>
+            <button class="close-dialog-button" onclick="closeDialog('dialog5')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text5')">Copy</button>
+        </div>
+
+    <button class="open-dialog-button" onclick="openDialog('dialog6')">ETH Wallet</button><br><br>
+        <div id="dialog6" class="dialog-box">
+            <h3>Ethereum (ETH)</h3>
+            <p id="text6"><b>0x86A0FE37e11686518074e1aC243a0c7278Bb3b9b</b></p>
+            <button class="close-dialog-button" onclick="closeDialog('dialog6')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text6')">Copy</button>
+        </div>
+
+    <button class="open-dialog-button" onclick="openDialog('dialog7')">TON Wallet</button><br><br>
+        <div id="dialog7" class="dialog-box">
+            <h3>The Open Network (TON)</h3>
+            <p id="text7"><b>EQAxERBBxbUm3pL2AV1x53oxdIkwqzDtaRhzpo2sz0ZgGoVh</b></p>
+            <button class="close-dialog-button" onclick="closeDialog('dialog7')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text7')">Copy</button>
+        </div>
+
+    <button class="open-dialog-button" onclick="openDialog('dialog8')">XRP Wallet</button><br><br>
+        <div id="dialog8" class="dialog-box">
+            <h3>Ripple Coin (XRP)</h3>
+            <p id="text8"><b>rw7dEwDzBFrCz6HCHNRUcNQMrTdyxEwqPg</b></p>
+            <button class="close-dialog-button" onclick="closeDialog('dialog8')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text8')">Copy</button>
+        </div>
+
+    <p><b>Alternatively, you can always donate thru the iOSXPC Wallpapers app</b><br><a href="https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers"><img src="https://iosxpc.github.io/wallpaper_app/playstore.png" alt="GET IT ON<br>Google Play" width="206" height="80" /></a></p>
+
+    <p style="font-size:13px;"><em>When transferring cryptocurrency (crypto), you should only send it to the correct wallet. Sending crypto to the wrong address is irreversible and the funds cannot be recovered. You should also ensure that the sending and receiving wallets are compatible, *especially when dealing with different types of cryptocurrencies. For example, you should only send ETH to Ethereum wallets or BTC to Bitcoin wallets.<br><br>Here are some tips for transferring crypto:<br>• Triple-check the recipient's address.<br>• Copy and paste the address to ensure it's entered correctly.<br>• Check the current state of the network before sending.<br>• Monitor the transaction until it has been fully confirmed.<br>• Only share the link with the intended recipient.</em></p>
+
+    <script>
+        function openDialog(id) {
+            var dialogBox = document.getElementById(id);
+            dialogBox.style.display = 'block';
+        }
+
+        function closeDialog(id) {
+            var dialogBox = document.getElementById(id);
+            dialogBox.style.display = 'none';
+        }
+
+        function copyText(id) {
+            var text = document.getElementById(id).innerText;
+            navigator.clipboard.writeText(text).then(function() {
+                alert('Text copied to clipboard');
+            }, function() {
+                alert('Failed to copy text to clipboard');
+            });
+        }        
+    </script>
 </body>
 </html>

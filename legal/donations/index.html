@@ -12,40 +12,45 @@
         }
         @media (prefers-color-scheme: light) {
             body {
-                background-color: #FAFEFC;
-                color: #0b3729;
+                background-color: #fafefc;
+                color: #002116;
             }
             a:link {
-                color: #264b5c;
+                color: #3f6375;
             }
             a:visited {
-                color: #254e3f;
+                color: #3e6656;
             }
             a:hover {
-                color: #673b34;
+                color: #82524a;
             }
             a:active {
-                color: #564519;
+                color: #6f5c2e;
+            }
+            .playstore img {
+                content: url('https://iosxpc.github.io/wallpaper_app/blog/playstore_light.png');
             }
         }
         @media (prefers-color-scheme: dark) {
             body {
-                background-color: #00150c;
-                color: #cceede;
-            }
-            a:link {
-                color: #e6f3fb;
-            }
-            a:visited {
+                background-color: #00130c;
                 color: #e4f9ef;
             }
+            a:link {
+                color: #8cb0c4;
+            }
+            a:visited {
+                color: #89b4a1;
+            }
             a:hover {
-                color: #feedea;
+                color: #d89d93;
             }
             a:active {
-                color: #faf3e0;
+                color: #c1a973;
             }
-
+            .playstore img {
+                content: url('https://iosxpc.github.io/wallpaper_app/blog/playstore_dark.png');
+            }
         }
         .open-dialog-button {
             border: 2px solid #254e3F;
@@ -60,7 +65,7 @@
         }
         .dialog-box {
             display: none;
-            width: 300px;
+            width: 316px;
             padding: 16px;
             border: 4px solid #557e6D;
             border-radius: 24px;
@@ -166,11 +171,19 @@
             <button class="copy-dialog-button" onclick="copyText('text8')">Copy</button>
         </div>
 
-    <p><b>Alternatively, you can always donate from the iOSXPC Wallpapers app</b><br>
-    <a href="https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers">
-        <img src="https://iosxpc.github.io/wallpaper_app/playstore.png" alt="GET IT ON Google Play" width="206.72" height="80" /></a></p>
+    <p><b>Alternatively, you can always donate via the iOSXPC Wallpapers app</b><br><br>
+    <a href="https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers" class="playstore">
+        <img src="https://iosxpc.github.io/wallpaper_app/playstore.png" alt="GET IT ON Google Play" height="80"></a></p>
 
-    <p style="font-size:13px;"><i>When transferring cryptocurrency (crypto), you should only send it to the correct wallet. Sending crypto to the wrong address is irreversible and the funds cannot be recovered. You should also ensure that the sending and receiving wallets are compatible, *especially when dealing with different types of cryptocurrencies. For example, you should only send ETH to Ethereum wallets or BTC to Bitcoin wallets.<br><br>Here are some tips for transferring crypto:<br>• Triple-check the recipient's address.<br>• Copy and paste the address to ensure it's entered correctly.<br>• Check the current state of the network before sending.<br>• Monitor the transaction until it has been fully confirmed.<br>• Only share the link with the intended recipient.</i></p>
+    <p style="font-size:13px;"><i>When transferring cryptocurrency (crypto), you should only send it to the correct wallet. Sending crypto to the wrong address is irreversible and the funds cannot be recovered. You should also ensure that the sending and receiving wallets are compatible, *especially when dealing with different types of cryptocurrencies. For example, you should only send ETH to Ethereum wallets or BTC to Bitcoin wallets.</i></p>
+    <p style="font-size:13px;"><i>Here are some tips for transferring crypto:
+    <ul style="font-size:13px;">
+        <li>Triple-check the recipient's address.</li>
+        <li>Copy and paste the address to ensure it's entered correctly.</li>
+        <li>Check the current state of the network before sending.</li>
+        <li>Monitor the transaction until it has been fully confirmed.</li>
+        <li>Only share the link with the intended recipient.</li>
+    <ul></i></p>
 
     <script>
         function openDialog(id) {

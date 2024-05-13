@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset='utf-8'>
-    <meta name='viewport' content='width=device-width'>
-    <meta name='color-scheme' content='light dark'>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="color-scheme" content="light dark">
+    <link rel="icon" type="image/png" sizes="512x512" href="https://iosxpc.github.io/wallpaper_app/blog/android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://iosxpc.github.io/wallpaper_app/blog/android-chrome-192x192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://iosxpc.github.io/wallpaper_app/blog/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://iosxpc.github.io/wallpaper_app/blog/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://iosxpc.github.io/wallpaper_app/blog/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" sizes="any" href="https://iosxpc.github.io/wallpaper_app/blog/favicon.ico">
+    <link rel="manifest" href="https://iosxpc.github.io/wallpaper_app/blog/site.webmanifest">
 <title>Contributions</title>
     <style>
         body { font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
@@ -53,22 +60,23 @@
             }
         }
         .open-dialog-button {
-            border: 2px solid #254e3F;
-            border-radius: 6px;
-            background-color: #557e6D;
+            padding: 1em 1em; 
+            border: 0em;
+            border-radius: 1em;
+            background-color: #557e6d;
             color: #e4f9ef;
             cursor: pointer;
         }
         .open-dialog-button:hover {
-            background-color: #89b4a1;
-            color: #254e3F;
+            background-color: #e4f9ef;
+            color: #557e6d;
         }
         .dialog-box {
             display: none;
-            width: 316px;
-            padding: 16px;
-            border: 4px solid #557e6D;
-            border-radius: 24px;
+            width: 18em;
+            padding: 1em;
+            border: 0em;
+            border-radius: 2em;
             background-color: #cceede;
             color: #002116;
             word-wrap: break-word;
@@ -78,8 +86,9 @@
             transform: translate(-50%, -50%);
         }
         .close-dialog-button {
-            border: 2px solid #673b34;
-            border-radius: 6px;
+            padding: 1em 1em;
+            border: 0em;
+            border-radius: 1em;
             background-color: #9d6960;
             color: #feedea;
             cursor: pointer;
@@ -89,8 +98,9 @@
             color: #673b34;
         }
         .copy-dialog-button {
-            border: 2px solid #264b5c;
-            border-radius: 6px;
+            padding: 1em 1em;
+            border: 0em;
+            border-radius: 1em;
             background-color: #577b8d;
             color: #e6f3fb;
             cursor: pointer;
@@ -99,7 +109,11 @@
             background-color: #8cb0c4;
             color: #264b5c;
         }
-    }
+        .note {
+            width: auto;
+            font-size: 9pt;
+            color: #9d6960;
+        }
     </style>
 </head>
 <body>
@@ -107,83 +121,85 @@
     <h2>Donation Information</h2><br>
     <p><b>If you would like to show your support for my work; please consider donating using one of these cryptocurrencies.</b></p><br>
 
-    <button class="open-dialog-button" onclick="openDialog('dialog1')">Wallet of Satoshi</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog("dialog1")">Wallet of Satoshi</button><br><br>
         <div id="dialog1" class="dialog-box">
             <h3>Wallet of Satoshi</h3>
             <p id="text1">iosxpc@walletofsatoshi.com</p>
-            <button class="close-dialog-button" onclick="closeDialog('dialog1')">Close</button>
-            <button class="copy-dialog-button" onclick="copyText('text1')">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog("dialog1")">Close</button>
+            <button class="copy-dialog-button" onclick="copyText("text1")">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog('dialog2')">Lightning Network</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog("dialog2")">Lightning Network</button><br><br>
         <div id="dialog2" class="dialog-box">
             <h3>Lightning Network</h3>
             <p id="text2">lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkjmmn0pcxxt4z3k7</p>
-            <button class="close-dialog-button" onclick="closeDialog('dialog2')">Close</button>
-            <button class="copy-dialog-button" onclick="copyText('text2')">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog("dialog2")">Close</button>
+            <button class="copy-dialog-button" onclick="copyText("text2")">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog('dialog3')">BTC Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog("dialog3")">BTC Wallet</button><br><br>
         <div id="dialog3" class="dialog-box">
             <h3>Bitcoin (BTC)</h3>
             <p id="text3">bc1qqfhn3q6d94kl84hw4q7xmlqxe5c4eg4srz0dj0</p>
-            <button class="close-dialog-button" onclick="closeDialog('dialog3')">Close</button>
-            <button class="copy-dialog-button" onclick="copyText('text3')">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog("dialog3")">Close</button>
+            <button class="copy-dialog-button" onclick="copyText("text3")">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog('dialog4')">LTC Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog("dialog4")">LTC Wallet</button><br><br>
         <div id="dialog4" class="dialog-box">
             <h3>Litecoin (LTC)</h3>
             <p id="text4">ltc1q87tyehxf0qlzfzl47gastxfzv6zpgk23rty7e7</p>
-            <button class="close-dialog-button" onclick="closeDialog('dialog4')">Close</button>
-            <button class="copy-dialog-button" onclick="copyText('text4')">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog("dialog4")">Close</button>
+            <button class="copy-dialog-button" onclick="copyText("text4")">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog('dialog5')">BCH Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog("dialog5")">BCH Wallet</button><br><br>
         <div id="dialog5" class="dialog-box">
             <h3>Bitcoin Cash (BCH)</h3>
             <p id="text5">qzqapmrt35kztmr46ayvlwpv27tx0auurqh324uyrr</p>
-            <button class="close-dialog-button" onclick="closeDialog('dialog5')">Close</button>
-            <button class="copy-dialog-button" onclick="copyText('text5')">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog("dialog5")">Close</button>
+            <button class="copy-dialog-button" onclick="copyText("text5")">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog('dialog6')">ETH Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog("dialog6")">ETH Wallet</button><br><br>
         <div id="dialog6" class="dialog-box">
             <h3>Ethereum (ETH)</h3>
             <p id="text6">0x86A0FE37e11686518074e1aC243a0c7278Bb3b9b</p>
-            <button class="close-dialog-button" onclick="closeDialog('dialog6')">Close</button>
-            <button class="copy-dialog-button" onclick="copyText('text6')">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog("dialog6")">Close</button>
+            <button class="copy-dialog-button" onclick="copyText("text6")">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog('dialog7')">TON Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog("dialog7")">TON Wallet</button><br><br>
         <div id="dialog7" class="dialog-box">
             <h3>The Open Network (TON)</h3>
             <p id="text7">EQAxERBBxbUm3pL2AV1x53oxdIkwqzDtaRhzpo2sz0ZgGoVh</p>
-            <button class="close-dialog-button" onclick="closeDialog('dialog7')">Close</button>
-            <button class="copy-dialog-button" onclick="copyText('text7')">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog("dialog7")">Close</button>
+            <button class="copy-dialog-button" onclick="copyText("text7")">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog('dialog8')">XRP Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog("dialog8")">XRP Wallet</button><br><br>
         <div id="dialog8" class="dialog-box">
             <h3>Ripple Coin (XRP)</h3>
             <p id="text8">rw7dEwDzBFrCz6HCHNRUcNQMrTdyxEwqPg</p>
-            <button class="close-dialog-button" onclick="closeDialog('dialog8')">Close</button>
-            <button class="copy-dialog-button" onclick="copyText('text8')">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog("dialog8")">Close</button>
+            <button class="copy-dialog-button" onclick="copyText("text8")">Copy</button>
         </div>
 
     <p><b>Alternatively, you can always donate via the iOSXPC Wallpapers app</b><br><br>
     <a href="https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers" class="playstore">
         <img src="https://iosxpc.github.io/wallpaper_app/playstore.png" alt="GET IT ON Google Play" height="80"></a></p>
 
-    <p style="font-size:13px;"><i>When transferring cryptocurrency (crypto), you should only send it to the correct wallet. Sending crypto to the wrong address is irreversible and the funds cannot be recovered. You should also ensure that the sending and receiving wallets are compatible, *especially when dealing with different types of cryptocurrencies. For example, you should only send ETH to Ethereum wallets or BTC to Bitcoin wallets.</i></p>
-    <p style="font-size:13px;"><i>Here are some tips for transferring crypto:
-    <ul style="font-size:13px;">
-        <li>Triple-check the recipient's address.</li>
-        <li>Copy and paste the address to ensure it's entered correctly.</li>
-        <li>Check the current state of the network before sending.</li>
-        <li>Monitor the transaction until it has been fully confirmed.</li>
-        <li>Only share the link with the intended recipient.</li>
-    <ul></i></p>
+    <div class="note">
+        <p><i>When transferring cryptocurrency (crypto), you should only send it to the correct wallet. Sending crypto to the wrong address is irreversible and the funds cannot be recovered. You should also ensure that the sending and receiving wallets are compatible, *especially when dealing with different types of cryptocurrencies. For example, you should only send ETH to Ethereum wallets or BTC to Bitcoin wallets.</i></p>
+        <p><i>Here are some tips for transferring crypto:
+        <ul>
+            <li>Triple-check the recipient's address.</li>
+            <li>Copy and paste the address to ensure it's entered correctly.</li>
+            <li>Check the current state of the network before sending.</li>
+            <li>Monitor the transaction until it has been fully confirmed.</li>
+            <li>Only share the link with the intended recipient.</li>
+        <ul></i></p>
+    </div>
 
     <script>
         function openDialog(id) {

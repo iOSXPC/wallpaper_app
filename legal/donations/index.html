@@ -26,16 +26,21 @@
                 color: #3f6375;
             }
             a:visited {
-                color: #3e6656;
+                color: #4c6359;
             }
             a:hover {
-                color: #82524a;
+                color: #6f5c2e;
             }
             a:active {
-                color: #6f5c2e;
+                color: #6a5d3f;
             }
             .playstore img {
                 content: url('https://iosxpc.github.io/wallpaper_app/blog/playstore_light.png');
+            }
+            .note {
+                width: auto;
+                font-size: 9pt;
+                color: #6f5C2e;
             }
         }
         @media (prefers-color-scheme: dark) {
@@ -47,16 +52,21 @@
                 color: #8cb0c4;
             }
             a:visited {
-                color: #89b4a1;
+                color: #98b1a5;
             }
             a:hover {
-                color: #d89d93;
+                color: #c1a973;
             }
             a:active {
-                color: #c1a973;
+                color: #baaa87;
             }
             .playstore img {
                 content: url('https://iosxpc.github.io/wallpaper_app/blog/playstore_dark.png');
+            }
+            .note {
+                width: auto;
+                font-size: 9pt;
+                color: #c1a973;
             }
         }
         .open-dialog-button {
@@ -68,8 +78,8 @@
             cursor: pointer;
         }
         .open-dialog-button:hover {
-            background-color: #e4f9ef;
-            color: #557e6d;
+            background-color: #89b4a1;
+            color: #254e3f;
         }
         .dialog-box {
             display: none;
@@ -78,7 +88,7 @@
             border: 0em;
             border-radius: 2em;
             background-color: #cceede;
-            color: #002116;
+            color: #0b3729;
             word-wrap: break-word;
             position: fixed;
             top: 50%;
@@ -109,80 +119,76 @@
             background-color: #8cb0c4;
             color: #264b5c;
         }
-        .note {
-            width: auto;
-            font-size: 9pt;
-            color: #9d6960;
-        }
     </style>
 </head>
 <body>
     <h1>iOSXPC Design Studio</h1>
     <h2>Donation Information</h2><br>
-    <p><b>If you would like to show your support for my work; please consider donating using one of these cryptocurrencies.</b></p><br>
+    <p><b>Donations are the best way to show your appreciation.</b></p>
+    <p><b>Choose - Click - Copy - Paste</b></p><br>
 
-    <button class="open-dialog-button" onclick="openDialog("dialog1")">Wallet of Satoshi</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog('dialog1')">Wallet of Satoshi</button><br><br>
         <div id="dialog1" class="dialog-box">
             <h3>Wallet of Satoshi</h3>
             <p id="text1">iosxpc@walletofsatoshi.com</p>
-            <button class="close-dialog-button" onclick="closeDialog("dialog1")">Close</button>
-            <button class="copy-dialog-button" onclick="copyText("text1")">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog('dialog1')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text1')">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog("dialog2")">Lightning Network</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog('dialog2')">Lightning Network</button><br><br>
         <div id="dialog2" class="dialog-box">
             <h3>Lightning Network</h3>
             <p id="text2">lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkjmmn0pcxxt4z3k7</p>
-            <button class="close-dialog-button" onclick="closeDialog("dialog2")">Close</button>
-            <button class="copy-dialog-button" onclick="copyText("text2")">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog('dialog2')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text2')">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog("dialog3")">BTC Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog('dialog3')">BTC Wallet</button><br><br>
         <div id="dialog3" class="dialog-box">
             <h3>Bitcoin (BTC)</h3>
             <p id="text3">bc1qqfhn3q6d94kl84hw4q7xmlqxe5c4eg4srz0dj0</p>
-            <button class="close-dialog-button" onclick="closeDialog("dialog3")">Close</button>
-            <button class="copy-dialog-button" onclick="copyText("text3")">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog('dialog3')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text3')">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog("dialog4")">LTC Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog('dialog4')">LTC Wallet</button><br><br>
         <div id="dialog4" class="dialog-box">
             <h3>Litecoin (LTC)</h3>
             <p id="text4">ltc1q87tyehxf0qlzfzl47gastxfzv6zpgk23rty7e7</p>
-            <button class="close-dialog-button" onclick="closeDialog("dialog4")">Close</button>
-            <button class="copy-dialog-button" onclick="copyText("text4")">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog('dialog4')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text4')">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog("dialog5")">BCH Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog('dialog5')">BCH Wallet</button><br><br>
         <div id="dialog5" class="dialog-box">
             <h3>Bitcoin Cash (BCH)</h3>
             <p id="text5">qzqapmrt35kztmr46ayvlwpv27tx0auurqh324uyrr</p>
-            <button class="close-dialog-button" onclick="closeDialog("dialog5")">Close</button>
-            <button class="copy-dialog-button" onclick="copyText("text5")">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog('dialog5')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text5')">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog("dialog6")">ETH Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog('dialog6')">ETH Wallet</button><br><br>
         <div id="dialog6" class="dialog-box">
             <h3>Ethereum (ETH)</h3>
             <p id="text6">0x86A0FE37e11686518074e1aC243a0c7278Bb3b9b</p>
-            <button class="close-dialog-button" onclick="closeDialog("dialog6")">Close</button>
-            <button class="copy-dialog-button" onclick="copyText("text6")">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog('dialog6')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text6')">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog("dialog7")">TON Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog('dialog7')">TON Wallet</button><br><br>
         <div id="dialog7" class="dialog-box">
             <h3>The Open Network (TON)</h3>
             <p id="text7">EQAxERBBxbUm3pL2AV1x53oxdIkwqzDtaRhzpo2sz0ZgGoVh</p>
-            <button class="close-dialog-button" onclick="closeDialog("dialog7")">Close</button>
-            <button class="copy-dialog-button" onclick="copyText("text7")">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog('dialog7')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text7')">Copy</button>
         </div>
 
-    <button class="open-dialog-button" onclick="openDialog("dialog8")">XRP Wallet</button><br><br>
+    <button class="open-dialog-button" onclick="openDialog('dialog8')">XRP Wallet</button><br><br>
         <div id="dialog8" class="dialog-box">
             <h3>Ripple Coin (XRP)</h3>
             <p id="text8">rw7dEwDzBFrCz6HCHNRUcNQMrTdyxEwqPg</p>
-            <button class="close-dialog-button" onclick="closeDialog("dialog8")">Close</button>
-            <button class="copy-dialog-button" onclick="copyText("text8")">Copy</button>
+            <button class="close-dialog-button" onclick="closeDialog('dialog8')">Close</button>
+            <button class="copy-dialog-button" onclick="copyText('text8')">Copy</button>
         </div>
 
     <p><b>Alternatively, you can always donate via the iOSXPC Wallpapers app</b><br><br>

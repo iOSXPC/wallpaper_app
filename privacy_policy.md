@@ -1,6 +1,6 @@
-# iOSXPC Wallpapers > Privacy Policy
+# iOSXPC wallpapers > Privacy Policy
 
-iOSXPC Design Studio built the iOSXPC Wallpapers app as a free app and is intended for use as is.
+iOSXPC design studio built the iOSXPC wallpapers app as a free app and is intended for use as is.
 
 This page is used to inform visitors regarding the policies with the collection, use of and disclosure of Personal Information if anyone decides to use this app.
 
@@ -26,7 +26,7 @@ Cookies are files with a small amount of data that are commonly used as anonymou
 This app does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse these cookies, you may not be able to use some portions of the app.
 
 ## Service Providers
-iOSXPC Design Studio may employ third-party companies and individuals due to the following reasons:
+iOSXPC design studio may employ third-party companies and individuals due to the following reasons:
 * To facilitate delivery of service.
 * To provide the delivery of service.
 * To perform service-related services.
@@ -35,14 +35,14 @@ iOSXPC Design Studio may employ third-party companies and individuals due to the
 This Privacy Policy informs users of this app that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them. However, they are obligated not to disclose nor use the information for any other purpose.
 
 ## Security
-iOSXPC Design Studio values your trust in providing your Personal Information, thus commercially acceptable means of protecting it are in place. Remember that no method of transmission over the internet, no method of electronic storage is 100% secure and reliable and absolute security cannot be guaranteed.
+iOSXPC design studio values your trust in providing your Personal Information, thus commercially acceptable means of protecting it are in place. Remember that no method of transmission over the internet, no method of electronic storage is 100% secure and reliable and absolute security cannot be guaranteed.
 
 ## Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site.
-* Note: These external sites are not operated by iOSXPC Design Studio. Therefore, you are strongly advised to review the Privacy Policy of these websites. iOSXPC Design Studio has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+* Note: These external sites are not operated by iOSXPC design studio. Therefore, you are strongly advised to review the Privacy Policy of these websites. iOSXPC design studio has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Children’s Privacy
-Services do not address anyone under the age of 13. The app does not knowingly collect Personally Identifiable information from children under 13 years of age. In the event that a child under 13 has provided personal information, it will be immediately deleted from the servers. If you are a parent or guardian and you are aware that your child has provided personal information, please contact iOSXPC Design Studio to perform necessary actions.
+Services do not address anyone under the age of 13. The app does not knowingly collect Personally Identifiable information from children under 13 years of age. In the event that a child under 13 has provided personal information, it will be immediately deleted from the servers. If you are a parent or guardian and you are aware that your child has provided personal information, please contact iOSXPC design studio to perform necessary actions.
 
 ## Changes to This Privacy Policy
 This Privacy Policy may be updated from time to time. Thus, you are advised to review this page periodically for any changes.
@@ -50,4 +50,5 @@ This Privacy Policy may be updated from time to time. Thus, you are advised to r
 * Effective: 2021-10-17
 
 ## Contact
-If you have any inquiries about this Privacy Policy, do not hesitate to contact iOSXPC Design Studio at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).
+If you have any inquiries about this Privacy Policy, do not hesitate to contact iOSXPC design studio at [iosxpc@gmail.com](mailto:iosxpc@gmail.com).
+

@@ -5,7 +5,7 @@ If the wallpaper is modified, credit to the original developer.
 
 ## Copyright infringement is prohibited.
 All images are protected by the [CC 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/legalcode#s2b/).
-This license lets others distribute, remix, tweak, and build upon the work, even commercially, as long as they credit iOSXPC Design Studio for the original creation.
+This license lets others distribute, remix, tweak, and build upon the work, even commercially, as long as they credit iOSXPC design studio for the original creation.
 It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in other applications.
 
 * [Privacy Policy](https://iOSXPC.github.io/wallpaper_app/legal/privacy/)
@@ -17,4 +17,5 @@ It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in ot
 </a>
 
 * If you want to donate for this work; please, donate through the app.
+
 

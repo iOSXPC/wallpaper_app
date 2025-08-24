@@ -1,1 +1,1 @@
-All contributions to the iOSXPC Wallpapers app are made solely by iOSXPC Design Studio.
+All contributions to the iOSXPC wallpapers app are made solely by iOSXPC design studio.

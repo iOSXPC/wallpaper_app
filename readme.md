@@ -4,7 +4,7 @@ All wallpapers are hand drawn, designed or modified by iOSXPC design studio.
 If the wallpaper is modified, credit to the original developer.
 
 ## Copyright infringement is prohibited.
-All images are protected by the [CC 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/legalcode#s2b/).
+All images are protected by the [CC 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/).
 This license lets others distribute, remix, tweak, and build upon the work, even commercially, as long as they credit iOSXPC design studio for the original creation.
 It is forbidden to use exact clones of these *.png, *.jpg or *.webp images in other applications.
 

@@ -5,7 +5,7 @@
     "url": "https://iosxpc.github.io/wallpaper_app/assets/maintenance/maintenance.png",
     "thumbnail": "https://iosxpc.github.io/wallpaper_app/thumbnails/maintenance/maintenance_preview.png",
     "collections": "Maintenance",
-    "copyright": "CC 4.0 International",
-    "downloadable": false
+    "copyright": "CC BY 4.0",
+    "downloadable": true
   }
 ]
